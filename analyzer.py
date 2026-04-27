@@ -26,8 +26,7 @@ def load_commits(path: str) -> list[dict]:
 def commits_per_author(commits: list[dict]) -> dict[str,int]:
 
     """
-    Return {author: commit_count}. Use a comprehension or
-    collections.Counter — your choice.
+    Returns a list of total commits by each other: {author: commit_count}.
     """
 
     total_commits = {}
@@ -49,8 +48,7 @@ def commits_per_author(commits: list[dict]) -> dict[str,int]:
 def top_n_largest_commits(commits: list[dict], n: int = 10) -> list[dict]:
 
     """
-    Return the n commits with the highest (lines_added + lines_deleted).
-    Sort with a key function — no manual sorting.
+    Returns the n commits with the most lines added. Sorted in desecdning order.
     """
      
     return sorted(commits, key = lambda x : x["lines-added"], reverse=True)
