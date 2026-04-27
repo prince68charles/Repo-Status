@@ -1,7 +1,10 @@
 import json
+<<<<<<< HEAD
 from collections import Counter
 from datetime import datetime
 
+=======
+>>>>>>> a32d14d (Updated Code)
 def load_commits(path: str) -> list[dict]:
 
 
@@ -26,6 +29,7 @@ def load_commits(path: str) -> list[dict]:
 
 
 
+<<<<<<< HEAD
 def commits_per_author(commits: list[dict]) -> dict[str,int]:
 
     """
@@ -77,3 +81,5 @@ def commits_by_day(commits: list[dict]) -> dict[str,int]:
     date_counts = Counter(extract_dates)
 
     return dict(sorted(date_counts.items()))
+=======
+>>>>>>> a32d14d (Updated Code)
