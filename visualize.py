@@ -26,7 +26,7 @@ def plot_comits_by_author(commits: list[dict]) -> None:
 
     #Construct the graph
 
-    fig, ax = plt.subplot(figsize=(8,5))
+    fig, ax = plt.subplots(figsize=(8,5))
     sn.barplot(x=authors, y =values, ax=ax)
 
     ax.set_title("Commits per author")
@@ -34,4 +34,33 @@ def plot_comits_by_author(commits: list[dict]) -> None:
     ax.set_ylabel("Number of commits")
 
     fig.savefig("output/commits_by_author.png", dpi=120)
+    plt.close(fig)
+
+def commits_over_time(commits: dict[str, int]) -> None:
+
+
+    """Function that plots commits over time via a bargraph"""
+    
+    dates = (datetime.fromisoformat(commit["timestamp"].date() for commit in commits))
+    counts = Counter(dates)
+
+    sorted_dates = sorted(counts.keys())
+    values = [counts[d] for d in sorted_dates]
+
+
+    #Create Line Chart
+
+    fig, ax = plt.subplots(figsize = (10,5))
+
+    ax.plot(sorted_dates, values, marker = "o", linewidth = 1.5)
+
+    ax.set_title("Commits over time")
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Commits")
+
+    # Rotate the x-axis labels 45 degrees so they don't overlap
+    plt.setp(ax.get_xticklabels(), rotation=45, ha="right")
+
+    fig.tight_layout()
+    fig.savefig("output/commits_over_time.png", dpi=120)
     plt.close(fig)
