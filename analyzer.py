@@ -38,3 +38,8 @@ def commits_per_author(commits: list[dict]) -> dict[str,int]:
             total_commits["author"] = 1
     
     return total_commits
+
+
+def top_n_largest_commits(commits: list[dict], n: int = 10) -> list[dict]:
+
+    return sorted(commits, key = lambda x : x["lines-added"], reverse=True)
