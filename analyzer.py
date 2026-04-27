@@ -21,3 +21,5 @@ def load_commits(path: str) -> list[dict]:
 
         raise ValueError("JSON file does not exist")
 
+
+
