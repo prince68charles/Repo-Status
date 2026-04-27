@@ -1,2202 +1,1802 @@
 [
     {
-        "sha": "b6ca18c",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-01-31T11:42:58.857103",
-        "lines-added": 75,
-        "files-changed": 4,
-        "lines-deleted": 197,
-        "message": "Added ..."
-    },
-    {
-        "sha": "e7ea23f",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-13T11:42:58.857132",
-        "lines-added": 380,
-        "files-changed": 9,
-        "lines-deleted": 90,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b7810db",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-09T11:42:58.857146",
-        "lines-added": 133,
+        "sha": "7eb7fee",
+        "author": "Xander",
+        "timestamp": "2026-04-04T15:40:54.851694",
+        "lines-added": 17,
         "files-changed": 5,
-        "lines-deleted": 54,
+        "lines-deleted": 199,
         "message": "Added ..."
     },
     {
-        "sha": "faed85e",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-25T11:42:58.857157",
-        "lines-added": 379,
+        "sha": "a3bdd0b",
+        "author": "Xander",
+        "timestamp": "2026-04-15T15:40:54.851726",
+        "lines-added": 42,
         "files-changed": 14,
-        "lines-deleted": 281,
+        "lines-deleted": 21,
         "message": "Added ..."
     },
     {
-        "sha": "a4a92a1",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-18T11:42:58.857165",
-        "lines-added": 10,
-        "files-changed": 7,
-        "lines-deleted": 276,
-        "message": "Added ..."
-    },
-    {
-        "sha": "f17a428",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-24T11:42:58.857173",
-        "lines-added": 186,
-        "files-changed": 13,
-        "lines-deleted": 127,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eecfa82",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-30T11:42:58.857181",
-        "lines-added": 216,
+        "sha": "fadc6fe",
+        "author": "David",
+        "timestamp": "2026-03-10T15:40:54.851740",
+        "lines-added": 57,
         "files-changed": 10,
-        "lines-deleted": 110,
+        "lines-deleted": 241,
         "message": "Added ..."
     },
     {
-        "sha": "cfeeb91",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-04T11:42:58.857189",
-        "lines-added": 256,
-        "files-changed": 7,
-        "lines-deleted": 291,
-        "message": "Added ..."
-    },
-    {
-        "sha": "f86157f",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-01-29T11:42:58.857196",
-        "lines-added": 49,
-        "files-changed": 1,
-        "lines-deleted": 1,
-        "message": "Added ..."
-    },
-    {
-        "sha": "bdb3671",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-26T11:42:58.857204",
-        "lines-added": 140,
-        "files-changed": 3,
-        "lines-deleted": 187,
-        "message": "Added ..."
-    },
-    {
-        "sha": "0c16bcc",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-24T11:42:58.857211",
-        "lines-added": 91,
-        "files-changed": 12,
-        "lines-deleted": 45,
-        "message": "Added ..."
-    },
-    {
-        "sha": "ed55ddb",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-11T11:42:58.857218",
-        "lines-added": 27,
+        "sha": "f3992a7",
+        "author": "Danny",
+        "timestamp": "2026-04-26T15:40:54.851749",
+        "lines-added": 473,
         "files-changed": 9,
-        "lines-deleted": 116,
-        "message": "Added ..."
-    },
-    {
-        "sha": "add429e",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-25T11:42:58.857229",
-        "lines-added": 273,
-        "files-changed": 11,
-        "lines-deleted": 206,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1d31f2a",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-28T11:42:58.857237",
-        "lines-added": 97,
-        "files-changed": 3,
-        "lines-deleted": 276,
-        "message": "Added ..."
-    },
-    {
-        "sha": "72f1f59",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-02T11:42:58.857244",
-        "lines-added": 98,
-        "files-changed": 6,
-        "lines-deleted": 153,
-        "message": "Added ..."
-    },
-    {
-        "sha": "9969d66",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-15T11:42:58.857251",
-        "lines-added": 94,
-        "files-changed": 8,
-        "lines-deleted": 76,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c922c3b",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-13T11:42:58.857258",
-        "lines-added": 412,
-        "files-changed": 11,
-        "lines-deleted": 272,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c67a0b5",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-06T11:42:58.857266",
-        "lines-added": 500,
-        "files-changed": 14,
-        "lines-deleted": 195,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c73cf1f",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-15T11:42:58.857273",
-        "lines-added": 492,
-        "files-changed": 7,
-        "lines-deleted": 197,
-        "message": "Added ..."
-    },
-    {
-        "sha": "fd9aaeb",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-05T11:42:58.857282",
-        "lines-added": 293,
-        "files-changed": 13,
-        "lines-deleted": 282,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b58c608",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-15T11:42:58.857290",
-        "lines-added": 469,
-        "files-changed": 15,
-        "lines-deleted": 70,
-        "message": "Added ..."
-    },
-    {
-        "sha": "02e42ba",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-11T11:42:58.857297",
-        "lines-added": 291,
-        "files-changed": 5,
-        "lines-deleted": 130,
-        "message": "Added ..."
-    },
-    {
-        "sha": "8176b00",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-01-28T11:42:58.857304",
-        "lines-added": 316,
-        "files-changed": 6,
-        "lines-deleted": 11,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c02120e",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-01-31T11:42:58.857312",
-        "lines-added": 321,
-        "files-changed": 14,
-        "lines-deleted": 74,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d4f3abb",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-23T11:42:58.857319",
-        "lines-added": 498,
-        "files-changed": 9,
-        "lines-deleted": 284,
-        "message": "Added ..."
-    },
-    {
-        "sha": "e47bf4c",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-07T11:42:58.857326",
-        "lines-added": 278,
-        "files-changed": 15,
-        "lines-deleted": 194,
-        "message": "Added ..."
-    },
-    {
-        "sha": "aee1bca",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-01-29T11:42:58.857336",
-        "lines-added": 267,
-        "files-changed": 1,
-        "lines-deleted": 222,
-        "message": "Added ..."
-    },
-    {
-        "sha": "a4bdeb5",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-05T11:42:58.857343",
-        "lines-added": 266,
-        "files-changed": 11,
-        "lines-deleted": 57,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d087008",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-07T11:42:58.857351",
-        "lines-added": 231,
-        "files-changed": 9,
-        "lines-deleted": 0,
-        "message": "Added ..."
-    },
-    {
-        "sha": "bdc64d7",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-01T11:42:58.857358",
-        "lines-added": 47,
-        "files-changed": 10,
-        "lines-deleted": 212,
-        "message": "Added ..."
-    },
-    {
-        "sha": "ea7fde5",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-08T11:42:58.857366",
-        "lines-added": 133,
-        "files-changed": 5,
-        "lines-deleted": 182,
-        "message": "Added ..."
-    },
-    {
-        "sha": "5c02ec5",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-12T11:42:58.857373",
-        "lines-added": 293,
-        "files-changed": 10,
-        "lines-deleted": 251,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d5ecac6",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-08T11:42:58.857381",
-        "lines-added": 13,
-        "files-changed": 10,
-        "lines-deleted": 189,
-        "message": "Added ..."
-    },
-    {
-        "sha": "344e4c3",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-06T11:42:58.857388",
-        "lines-added": 309,
-        "files-changed": 4,
-        "lines-deleted": 150,
-        "message": "Added ..."
-    },
-    {
-        "sha": "8b2cbc5",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-03-23T11:42:58.857395",
-        "lines-added": 479,
-        "files-changed": 3,
-        "lines-deleted": 191,
-        "message": "Added ..."
-    },
-    {
-        "sha": "0c4a19f",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-16T11:42:58.857402",
-        "lines-added": 198,
-        "files-changed": 12,
-        "lines-deleted": 234,
-        "message": "Added ..."
-    },
-    {
-        "sha": "189d7df",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-15T11:42:58.857409",
-        "lines-added": 155,
-        "files-changed": 5,
-        "lines-deleted": 33,
-        "message": "Added ..."
-    },
-    {
-        "sha": "e7cbe4f",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-15T11:42:58.857417",
-        "lines-added": 145,
-        "files-changed": 2,
-        "lines-deleted": 73,
-        "message": "Added ..."
-    },
-    {
-        "sha": "a6fb2ff",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-09T11:42:58.857424",
-        "lines-added": 231,
-        "files-changed": 4,
-        "lines-deleted": 143,
-        "message": "Added ..."
-    },
-    {
-        "sha": "6c5cb9e",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-26T11:42:58.857433",
-        "lines-added": 163,
-        "files-changed": 5,
-        "lines-deleted": 227,
-        "message": "Added ..."
-    },
-    {
-        "sha": "beebbfc",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-04T11:42:58.857441",
-        "lines-added": 136,
-        "files-changed": 15,
-        "lines-deleted": 226,
-        "message": "Added ..."
-    },
-    {
-        "sha": "a10d1ee",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-13T11:42:58.857448",
-        "lines-added": 498,
-        "files-changed": 13,
-        "lines-deleted": 78,
-        "message": "Added ..."
-    },
-    {
-        "sha": "0cd84a7",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-16T11:42:58.857456",
-        "lines-added": 328,
-        "files-changed": 10,
-        "lines-deleted": 13,
-        "message": "Added ..."
-    },
-    {
-        "sha": "dcddd6f",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-04T11:42:58.857463",
-        "lines-added": 303,
-        "files-changed": 7,
-        "lines-deleted": 192,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3d7ebd7",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-20T11:42:58.857471",
-        "lines-added": 4,
-        "files-changed": 12,
-        "lines-deleted": 116,
-        "message": "Added ..."
-    },
-    {
-        "sha": "adb1d3a",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-17T11:42:58.857478",
-        "lines-added": 370,
-        "files-changed": 2,
-        "lines-deleted": 138,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d7facee",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-05T11:42:58.857485",
-        "lines-added": 183,
-        "files-changed": 4,
-        "lines-deleted": 171,
-        "message": "Added ..."
-    },
-    {
-        "sha": "81afb70",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-15T11:42:58.857492",
-        "lines-added": 433,
-        "files-changed": 4,
-        "lines-deleted": 39,
-        "message": "Added ..."
-    },
-    {
-        "sha": "bc069c0",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-23T11:42:58.857499",
-        "lines-added": 211,
-        "files-changed": 11,
-        "lines-deleted": 55,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cafad22",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-04T11:42:58.857507",
-        "lines-added": 255,
-        "files-changed": 10,
         "lines-deleted": 79,
         "message": "Added ..."
     },
     {
-        "sha": "3bbfe6b",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-21T11:42:58.857516",
-        "lines-added": 164,
-        "files-changed": 13,
-        "lines-deleted": 108,
-        "message": "Added ..."
-    },
-    {
-        "sha": "5ffc01d",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-14T11:42:58.857523",
-        "lines-added": 18,
-        "files-changed": 10,
-        "lines-deleted": 102,
-        "message": "Added ..."
-    },
-    {
-        "sha": "05db23f",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-04-27T11:42:58.857530",
-        "lines-added": 375,
-        "files-changed": 5,
-        "lines-deleted": 212,
-        "message": "Added ..."
-    },
-    {
-        "sha": "8efc239",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-18T11:42:58.857538",
-        "lines-added": 395,
-        "files-changed": 2,
-        "lines-deleted": 6,
-        "message": "Added ..."
-    },
-    {
-        "sha": "8857ea7",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-24T11:42:58.857545",
-        "lines-added": 238,
-        "files-changed": 5,
-        "lines-deleted": 56,
-        "message": "Added ..."
-    },
-    {
-        "sha": "38ef255",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-10T11:42:58.857552",
-        "lines-added": 125,
-        "files-changed": 7,
-        "lines-deleted": 65,
-        "message": "Added ..."
-    },
-    {
-        "sha": "fc784b8",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-07T11:42:58.857560",
-        "lines-added": 239,
-        "files-changed": 9,
-        "lines-deleted": 212,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d7bef3f",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-06T11:42:58.857567",
-        "lines-added": 188,
-        "files-changed": 2,
-        "lines-deleted": 80,
-        "message": "Added ..."
-    },
-    {
-        "sha": "0fca37e",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-03T11:42:58.857576",
-        "lines-added": 77,
-        "files-changed": 7,
-        "lines-deleted": 156,
-        "message": "Added ..."
-    },
-    {
-        "sha": "af25da7",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-23T11:42:58.857584",
-        "lines-added": 136,
-        "files-changed": 3,
-        "lines-deleted": 79,
-        "message": "Added ..."
-    },
-    {
-        "sha": "aaf7092",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-12T11:42:58.857591",
-        "lines-added": 218,
-        "files-changed": 14,
-        "lines-deleted": 3,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eafad91",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-07T11:42:58.857598",
-        "lines-added": 159,
-        "files-changed": 7,
+        "sha": "3dcb3df",
+        "author": "David",
+        "timestamp": "2026-04-06T15:40:54.851758",
+        "lines-added": 400,
+        "files-changed": 1,
         "lines-deleted": 83,
         "message": "Added ..."
     },
     {
-        "sha": "33af4aa",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-25T11:42:58.857606",
-        "lines-added": 403,
-        "files-changed": 10,
-        "lines-deleted": 86,
-        "message": "Added ..."
-    },
-    {
-        "sha": "a83d64b",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-13T11:42:58.857615",
-        "lines-added": 82,
-        "files-changed": 2,
-        "lines-deleted": 271,
-        "message": "Added ..."
-    },
-    {
-        "sha": "feb4e00",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-10T11:42:58.857629",
-        "lines-added": 185,
-        "files-changed": 11,
-        "lines-deleted": 282,
-        "message": "Added ..."
-    },
-    {
-        "sha": "0c7be7c",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-03-28T11:42:58.857637",
-        "lines-added": 121,
-        "files-changed": 3,
-        "lines-deleted": 122,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c2cf2f5",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-27T11:42:58.857644",
-        "lines-added": 459,
-        "files-changed": 12,
-        "lines-deleted": 77,
-        "message": "Added ..."
-    },
-    {
-        "sha": "e2e13c6",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-13T11:42:58.857652",
-        "lines-added": 286,
-        "files-changed": 10,
-        "lines-deleted": 94,
-        "message": "Added ..."
-    },
-    {
-        "sha": "f8796cf",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-13T11:42:58.857659",
-        "lines-added": 21,
-        "files-changed": 2,
-        "lines-deleted": 294,
-        "message": "Added ..."
-    },
-    {
-        "sha": "9556c6c",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-19T11:42:58.857666",
-        "lines-added": 268,
-        "files-changed": 7,
-        "lines-deleted": 202,
-        "message": "Added ..."
-    },
-    {
-        "sha": "a92ebed",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-06T11:42:58.857674",
-        "lines-added": 345,
-        "files-changed": 13,
-        "lines-deleted": 226,
-        "message": "Added ..."
-    },
-    {
-        "sha": "05a64c9",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-10T11:42:58.857681",
-        "lines-added": 477,
-        "files-changed": 5,
-        "lines-deleted": 256,
-        "message": "Added ..."
-    },
-    {
-        "sha": "4c2946e",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-08T11:42:58.857688",
-        "lines-added": 46,
-        "files-changed": 9,
-        "lines-deleted": 145,
-        "message": "Added ..."
-    },
-    {
-        "sha": "f3f9d20",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-20T11:42:58.857695",
-        "lines-added": 0,
-        "files-changed": 13,
-        "lines-deleted": 4,
-        "message": "Added ..."
-    },
-    {
-        "sha": "083e329",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-31T11:42:58.857705",
-        "lines-added": 146,
-        "files-changed": 13,
-        "lines-deleted": 169,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cef4ed9",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-11T11:42:58.857712",
-        "lines-added": 62,
-        "files-changed": 5,
-        "lines-deleted": 116,
-        "message": "Added ..."
-    },
-    {
-        "sha": "91ebc27",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-18T11:42:58.857719",
-        "lines-added": 35,
-        "files-changed": 15,
-        "lines-deleted": 91,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d068930",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-02T11:42:58.857729",
-        "lines-added": 392,
-        "files-changed": 4,
-        "lines-deleted": 10,
-        "message": "Added ..."
-    },
-    {
-        "sha": "e0ebedc",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-22T11:42:58.857739",
-        "lines-added": 224,
-        "files-changed": 15,
-        "lines-deleted": 291,
-        "message": "Added ..."
-    },
-    {
-        "sha": "00be3cc",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-14T11:42:58.857746",
-        "lines-added": 49,
-        "files-changed": 5,
-        "lines-deleted": 258,
-        "message": "Added ..."
-    },
-    {
-        "sha": "edd7a9d",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-22T11:42:58.857754",
-        "lines-added": 259,
-        "files-changed": 15,
-        "lines-deleted": 7,
-        "message": "Added ..."
-    },
-    {
-        "sha": "fcbf1ea",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-09T11:42:58.857761",
-        "lines-added": 292,
-        "files-changed": 10,
-        "lines-deleted": 289,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cefd100",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-30T11:42:58.857770",
-        "lines-added": 482,
-        "files-changed": 10,
-        "lines-deleted": 132,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d47e8c8",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-08T11:42:58.857778",
-        "lines-added": 96,
-        "files-changed": 4,
-        "lines-deleted": 287,
-        "message": "Added ..."
-    },
-    {
-        "sha": "d8f2c29",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-11T11:42:58.857785",
-        "lines-added": 252,
-        "files-changed": 14,
-        "lines-deleted": 55,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1d85c8d",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-29T11:42:58.857792",
-        "lines-added": 445,
-        "files-changed": 7,
-        "lines-deleted": 291,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1582c08",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-15T11:42:58.857800",
-        "lines-added": 255,
-        "files-changed": 7,
-        "lines-deleted": 197,
-        "message": "Added ..."
-    },
-    {
-        "sha": "e3566ee",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-27T11:42:58.857807",
-        "lines-added": 250,
-        "files-changed": 14,
-        "lines-deleted": 28,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b5552de",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-23T11:42:58.857814",
-        "lines-added": 161,
-        "files-changed": 8,
-        "lines-deleted": 95,
-        "message": "Added ..."
-    },
-    {
-        "sha": "75bd0a0",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-27T11:42:58.857822",
-        "lines-added": 445,
-        "files-changed": 11,
-        "lines-deleted": 144,
-        "message": "Added ..."
-    },
-    {
-        "sha": "12223db",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-14T11:42:58.857830",
-        "lines-added": 257,
-        "files-changed": 5,
-        "lines-deleted": 9,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cc65051",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-03T11:42:58.857837",
-        "lines-added": 101,
-        "files-changed": 4,
-        "lines-deleted": 31,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b4bcab2",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-17T11:42:58.857844",
-        "lines-added": 485,
+        "sha": "3b838b3",
+        "author": "David",
+        "timestamp": "2026-03-05T15:40:54.851766",
+        "lines-added": 126,
         "files-changed": 14,
         "lines-deleted": 61,
         "message": "Added ..."
     },
     {
-        "sha": "d761dcc",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-11T11:42:58.857852",
-        "lines-added": 413,
-        "files-changed": 8,
-        "lines-deleted": 65,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3b8e1d3",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-04-17T11:42:58.857859",
-        "lines-added": 416,
-        "files-changed": 12,
-        "lines-deleted": 73,
-        "message": "Added ..."
-    },
-    {
-        "sha": "7ecd9e9",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-03-25T11:42:58.857866",
-        "lines-added": 393,
-        "files-changed": 6,
-        "lines-deleted": 249,
-        "message": "Added ..."
-    },
-    {
-        "sha": "fdc55b8",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-10T11:42:58.857873",
-        "lines-added": 5,
-        "files-changed": 9,
-        "lines-deleted": 92,
-        "message": "Added ..."
-    },
-    {
-        "sha": "06a3f24",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-28T11:42:58.857883",
-        "lines-added": 3,
-        "files-changed": 9,
-        "lines-deleted": 149,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3d479fb",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-03T11:42:58.857890",
-        "lines-added": 366,
-        "files-changed": 9,
-        "lines-deleted": 2,
-        "message": "Added ..."
-    },
-    {
-        "sha": "966cd7c",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-01-30T11:42:58.857897",
-        "lines-added": 73,
-        "files-changed": 13,
-        "lines-deleted": 167,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c1fc585",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-16T11:42:58.857905",
-        "lines-added": 92,
-        "files-changed": 13,
-        "lines-deleted": 296,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c4aebfe",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-03T11:42:58.857912",
-        "lines-added": 134,
-        "files-changed": 6,
-        "lines-deleted": 222,
-        "message": "Added ..."
-    },
-    {
-        "sha": "857fd95",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-15T11:42:58.857919",
-        "lines-added": 33,
-        "files-changed": 12,
-        "lines-deleted": 223,
-        "message": "Added ..."
-    },
-    {
-        "sha": "dc0fe48",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-19T11:42:58.857927",
-        "lines-added": 311,
-        "files-changed": 4,
-        "lines-deleted": 197,
-        "message": "Added ..."
-    },
-    {
-        "sha": "08f9d62",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-01-28T11:42:58.857934",
-        "lines-added": 409,
-        "files-changed": 5,
-        "lines-deleted": 40,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b3e415f",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-26T11:42:58.857941",
-        "lines-added": 290,
-        "files-changed": 2,
-        "lines-deleted": 249,
-        "message": "Added ..."
-    },
-    {
-        "sha": "4dc9e33",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-22T11:42:58.857948",
-        "lines-added": 400,
-        "files-changed": 6,
-        "lines-deleted": 107,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eef5897",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-10T11:42:58.857956",
-        "lines-added": 422,
-        "files-changed": 3,
-        "lines-deleted": 5,
-        "message": "Added ..."
-    },
-    {
-        "sha": "17b437b",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-03-20T11:42:58.857963",
-        "lines-added": 93,
-        "files-changed": 9,
-        "lines-deleted": 196,
-        "message": "Added ..."
-    },
-    {
-        "sha": "bba10dc",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-26T11:42:58.857971",
-        "lines-added": 289,
-        "files-changed": 8,
-        "lines-deleted": 38,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3f5c4ca",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-13T11:42:58.857978",
-        "lines-added": 453,
-        "files-changed": 15,
-        "lines-deleted": 161,
-        "message": "Added ..."
-    },
-    {
-        "sha": "fccc88e",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-27T11:42:58.857986",
-        "lines-added": 470,
-        "files-changed": 9,
-        "lines-deleted": 84,
-        "message": "Added ..."
-    },
-    {
-        "sha": "01facfc",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-16T11:42:58.857993",
-        "lines-added": 379,
-        "files-changed": 12,
-        "lines-deleted": 201,
-        "message": "Added ..."
-    },
-    {
-        "sha": "ecc1d3b",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-04T11:42:58.858013",
-        "lines-added": 400,
-        "files-changed": 14,
-        "lines-deleted": 292,
-        "message": "Added ..."
-    },
-    {
-        "sha": "2a5cabd",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-17T11:42:58.858022",
-        "lines-added": 173,
-        "files-changed": 1,
-        "lines-deleted": 46,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1b02dc0",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-18T11:42:58.858029",
-        "lines-added": 290,
-        "files-changed": 2,
-        "lines-deleted": 262,
-        "message": "Added ..."
-    },
-    {
-        "sha": "acbd8ca",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-25T11:42:58.858035",
-        "lines-added": 50,
-        "files-changed": 1,
-        "lines-deleted": 135,
-        "message": "Added ..."
-    },
-    {
-        "sha": "bdbbdba",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-09T11:42:58.858043",
-        "lines-added": 333,
-        "files-changed": 12,
-        "lines-deleted": 18,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1a0d3ab",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-25T11:42:58.858049",
-        "lines-added": 312,
-        "files-changed": 4,
-        "lines-deleted": 73,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b8f7b55",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-06T11:42:58.858056",
-        "lines-added": 31,
-        "files-changed": 7,
-        "lines-deleted": 109,
-        "message": "Added ..."
-    },
-    {
-        "sha": "8d03ba8",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-02T11:42:58.858063",
-        "lines-added": 281,
-        "files-changed": 11,
-        "lines-deleted": 17,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1db5b80",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-09T11:42:58.858069",
-        "lines-added": 87,
-        "files-changed": 10,
-        "lines-deleted": 192,
-        "message": "Added ..."
-    },
-    {
-        "sha": "b77e369",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-22T11:42:58.858076",
-        "lines-added": 275,
-        "files-changed": 2,
-        "lines-deleted": 122,
-        "message": "Added ..."
-    },
-    {
-        "sha": "dfa4167",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-28T11:42:58.858083",
-        "lines-added": 396,
-        "files-changed": 7,
-        "lines-deleted": 94,
-        "message": "Added ..."
-    },
-    {
-        "sha": "8419050",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-19T11:42:58.858089",
-        "lines-added": 71,
-        "files-changed": 2,
-        "lines-deleted": 190,
-        "message": "Added ..."
-    },
-    {
-        "sha": "fee8ee7",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-24T11:42:58.858095",
-        "lines-added": 492,
-        "files-changed": 12,
-        "lines-deleted": 233,
-        "message": "Added ..."
-    },
-    {
-        "sha": "06eba87",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-10T11:42:58.858154",
-        "lines-added": 490,
-        "files-changed": 15,
-        "lines-deleted": 240,
-        "message": "Added ..."
-    },
-    {
-        "sha": "38dca8d",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-23T11:42:58.858162",
-        "lines-added": 407,
-        "files-changed": 9,
-        "lines-deleted": 222,
-        "message": "Added ..."
-    },
-    {
-        "sha": "f5e9dea",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-02T11:42:58.858175",
-        "lines-added": 342,
-        "files-changed": 5,
-        "lines-deleted": 190,
-        "message": "Added ..."
-    },
-    {
-        "sha": "1562cb7",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-24T11:42:58.858181",
-        "lines-added": 49,
-        "files-changed": 6,
-        "lines-deleted": 277,
-        "message": "Added ..."
-    },
-    {
-        "sha": "4aff2ad",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-14T11:42:58.858188",
-        "lines-added": 292,
-        "files-changed": 8,
-        "lines-deleted": 289,
-        "message": "Added ..."
-    },
-    {
-        "sha": "decf7a7",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-03T11:42:58.858195",
-        "lines-added": 114,
-        "files-changed": 13,
-        "lines-deleted": 294,
-        "message": "Added ..."
-    },
-    {
-        "sha": "aa803c3",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-14T11:42:58.858201",
-        "lines-added": 496,
-        "files-changed": 15,
-        "lines-deleted": 149,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eb27dab",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-27T11:42:58.858207",
-        "lines-added": 387,
+        "sha": "d2074da",
+        "author": "Danny",
+        "timestamp": "2026-03-30T15:40:54.851773",
+        "lines-added": 412,
         "files-changed": 13,
         "lines-deleted": 106,
         "message": "Added ..."
     },
     {
-        "sha": "e5efc82",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-25T11:42:58.858214",
-        "lines-added": 39,
-        "files-changed": 15,
-        "lines-deleted": 222,
+        "sha": "c8eedbc",
+        "author": "David",
+        "timestamp": "2026-03-21T15:40:54.851781",
+        "lines-added": 180,
+        "files-changed": 4,
+        "lines-deleted": 182,
         "message": "Added ..."
     },
     {
-        "sha": "8ffebf0",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-05T11:42:58.858220",
-        "lines-added": 267,
+        "sha": "1bffb51",
+        "author": "Alice",
+        "timestamp": "2026-03-13T15:40:54.851787",
+        "lines-added": 476,
         "files-changed": 8,
-        "lines-deleted": 142,
+        "lines-deleted": 212,
         "message": "Added ..."
     },
     {
-        "sha": "8fded8a",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-18T11:42:58.858230",
-        "lines-added": 350,
-        "files-changed": 13,
-        "lines-deleted": 85,
+        "sha": "c3b1e4c",
+        "author": "Xander",
+        "timestamp": "2026-04-21T15:40:54.851802",
+        "lines-added": 398,
+        "files-changed": 15,
+        "lines-deleted": 125,
         "message": "Added ..."
     },
     {
-        "sha": "c367aad",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-05T11:42:58.858237",
-        "lines-added": 482,
+        "sha": "c100e5b",
+        "author": "Danny",
+        "timestamp": "2026-04-10T15:40:54.851810",
+        "lines-added": 229,
         "files-changed": 7,
-        "lines-deleted": 55,
+        "lines-deleted": 263,
         "message": "Added ..."
     },
     {
-        "sha": "37d7c08",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-23T11:42:58.858243",
-        "lines-added": 147,
-        "files-changed": 10,
+        "sha": "98febdd",
+        "author": "Bob",
+        "timestamp": "2026-02-04T15:40:54.851817",
+        "lines-added": 252,
+        "files-changed": 11,
         "lines-deleted": 261,
         "message": "Added ..."
     },
     {
-        "sha": "ad62c02",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-21T11:42:58.858249",
-        "lines-added": 240,
-        "files-changed": 6,
-        "lines-deleted": 5,
-        "message": "Added ..."
-    },
-    {
-        "sha": "0fcb05e",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-28T11:42:58.858255",
-        "lines-added": 76,
-        "files-changed": 12,
-        "lines-deleted": 208,
-        "message": "Added ..."
-    },
-    {
-        "sha": "ba0b5ad",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-06T11:42:58.858262",
-        "lines-added": 182,
-        "files-changed": 11,
-        "lines-deleted": 143,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c5e3fbf",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-25T11:42:58.858268",
-        "lines-added": 398,
+        "sha": "6aad390",
+        "author": "Danny",
+        "timestamp": "2026-02-09T15:40:54.851825",
+        "lines-added": 174,
         "files-changed": 13,
-        "lines-deleted": 55,
+        "lines-deleted": 131,
         "message": "Added ..."
     },
     {
-        "sha": "8eb5bac",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-12T11:42:58.858274",
-        "lines-added": 232,
-        "files-changed": 13,
-        "lines-deleted": 245,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cfacee4",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-01-29T11:42:58.858280",
-        "lines-added": 47,
-        "files-changed": 10,
-        "lines-deleted": 206,
-        "message": "Added ..."
-    },
-    {
-        "sha": "9a3124d",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-10T11:42:58.858287",
-        "lines-added": 392,
+        "sha": "fda3bda",
+        "author": "Danny",
+        "timestamp": "2026-04-14T15:40:54.851832",
+        "lines-added": 407,
         "files-changed": 1,
-        "lines-deleted": 297,
+        "lines-deleted": 182,
         "message": "Added ..."
     },
     {
-        "sha": "b12dfd1",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-24T11:42:58.858294",
-        "lines-added": 416,
-        "files-changed": 4,
-        "lines-deleted": 292,
-        "message": "Added ..."
-    },
-    {
-        "sha": "250cebb",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-13T11:42:58.858301",
-        "lines-added": 69,
-        "files-changed": 15,
-        "lines-deleted": 15,
-        "message": "Added ..."
-    },
-    {
-        "sha": "abc1a3c",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-16T11:42:58.858307",
-        "lines-added": 302,
-        "files-changed": 9,
-        "lines-deleted": 97,
-        "message": "Added ..."
-    },
-    {
-        "sha": "4beadfb",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-05T11:42:58.858314",
-        "lines-added": 396,
-        "files-changed": 4,
-        "lines-deleted": 95,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c22fede",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-04T11:42:58.858320",
-        "lines-added": 191,
+        "sha": "ccc0442",
+        "author": "David",
+        "timestamp": "2026-04-07T15:40:54.851839",
+        "lines-added": 284,
         "files-changed": 3,
-        "lines-deleted": 30,
+        "lines-deleted": 193,
         "message": "Added ..."
     },
     {
-        "sha": "61c9689",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-17T11:42:58.858326",
-        "lines-added": 40,
-        "files-changed": 10,
-        "lines-deleted": 171,
-        "message": "Added ..."
-    },
-    {
-        "sha": "15e560b",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-09T11:42:58.858332",
-        "lines-added": 368,
-        "files-changed": 2,
-        "lines-deleted": 187,
-        "message": "Added ..."
-    },
-    {
-        "sha": "5898a6e",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-14T11:42:58.858338",
-        "lines-added": 22,
-        "files-changed": 5,
-        "lines-deleted": 252,
-        "message": "Added ..."
-    },
-    {
-        "sha": "6b7ce3e",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-10T11:42:58.858345",
-        "lines-added": 497,
+        "sha": "cefd223",
+        "author": "Danny",
+        "timestamp": "2026-03-21T15:40:54.851846",
+        "lines-added": 101,
         "files-changed": 6,
-        "lines-deleted": 22,
+        "lines-deleted": 234,
         "message": "Added ..."
     },
     {
-        "sha": "dcdffcc",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-22T11:42:58.858351",
-        "lines-added": 373,
-        "files-changed": 11,
-        "lines-deleted": 270,
-        "message": "Added ..."
-    },
-    {
-        "sha": "6f5fbef",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-13T11:42:58.858359",
-        "lines-added": 383,
-        "files-changed": 10,
-        "lines-deleted": 82,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c7e838f",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-01T11:42:58.858365",
-        "lines-added": 181,
-        "files-changed": 11,
-        "lines-deleted": 162,
-        "message": "Added ..."
-    },
-    {
-        "sha": "a20faec",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-25T11:42:58.858372",
-        "lines-added": 202,
-        "files-changed": 8,
-        "lines-deleted": 13,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3eef7c0",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-02-13T11:42:58.858378",
-        "lines-added": 296,
+        "sha": "02bbbfd",
+        "author": "Xander",
+        "timestamp": "2026-03-10T15:40:54.851852",
+        "lines-added": 93,
         "files-changed": 7,
-        "lines-deleted": 119,
+        "lines-deleted": 78,
         "message": "Added ..."
     },
     {
-        "sha": "7be256a",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-25T11:42:58.858387",
-        "lines-added": 500,
+        "sha": "d8c8aeb",
+        "author": "David",
+        "timestamp": "2026-03-29T15:40:54.851859",
+        "lines-added": 301,
+        "files-changed": 15,
+        "lines-deleted": 112,
+        "message": "Added ..."
+    },
+    {
+        "sha": "abce0fc",
+        "author": "Xander",
+        "timestamp": "2026-03-08T15:40:54.851866",
+        "lines-added": 55,
         "files-changed": 14,
-        "lines-deleted": 262,
+        "lines-deleted": 42,
         "message": "Added ..."
     },
     {
-        "sha": "ffab08b",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-23T11:42:58.858394",
-        "lines-added": 18,
+        "sha": "db325e4",
+        "author": "Alex",
+        "timestamp": "2026-04-11T15:40:54.851876",
+        "lines-added": 119,
+        "files-changed": 9,
+        "lines-deleted": 211,
+        "message": "Added ..."
+    },
+    {
+        "sha": "96e2a6b",
+        "author": "Xander",
+        "timestamp": "2026-02-01T15:40:54.851885",
+        "lines-added": 235,
+        "files-changed": 14,
+        "lines-deleted": 278,
+        "message": "Added ..."
+    },
+    {
+        "sha": "e650cfd",
+        "author": "David",
+        "timestamp": "2026-04-24T15:40:54.851892",
+        "lines-added": 25,
+        "files-changed": 7,
+        "lines-deleted": 3,
+        "message": "Added ..."
+    },
+    {
+        "sha": "11414aa",
+        "author": "Bob",
+        "timestamp": "2026-02-09T15:40:54.851899",
+        "lines-added": 187,
+        "files-changed": 9,
+        "lines-deleted": 111,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ea4cb1f",
+        "author": "David",
+        "timestamp": "2026-04-21T15:40:54.851906",
+        "lines-added": 273,
+        "files-changed": 14,
+        "lines-deleted": 96,
+        "message": "Added ..."
+    },
+    {
+        "sha": "9c848cc",
+        "author": "Xander",
+        "timestamp": "2026-04-10T15:40:54.851913",
+        "lines-added": 171,
+        "files-changed": 8,
+        "lines-deleted": 197,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c1bf647",
+        "author": "David",
+        "timestamp": "2026-02-19T15:40:54.851920",
+        "lines-added": 191,
+        "files-changed": 4,
+        "lines-deleted": 182,
+        "message": "Added ..."
+    },
+    {
+        "sha": "f928d78",
+        "author": "Alice",
+        "timestamp": "2026-03-16T15:40:54.851927",
+        "lines-added": 440,
         "files-changed": 12,
+        "lines-deleted": 6,
+        "message": "Added ..."
+    },
+    {
+        "sha": "bbabed9",
+        "author": "Alice",
+        "timestamp": "2026-01-28T15:40:54.851934",
+        "lines-added": 471,
+        "files-changed": 2,
+        "lines-deleted": 61,
+        "message": "Added ..."
+    },
+    {
+        "sha": "9d7d6ba",
+        "author": "David",
+        "timestamp": "2026-02-17T15:40:54.851941",
+        "lines-added": 199,
+        "files-changed": 12,
+        "lines-deleted": 23,
+        "message": "Added ..."
+    },
+    {
+        "sha": "b2d40ec",
+        "author": "Danny",
+        "timestamp": "2026-03-28T15:40:54.851948",
+        "lines-added": 98,
+        "files-changed": 13,
+        "lines-deleted": 181,
+        "message": "Added ..."
+    },
+    {
+        "sha": "5e1c4d7",
+        "author": "Xander",
+        "timestamp": "2026-01-28T15:40:54.851955",
+        "lines-added": 82,
+        "files-changed": 10,
+        "lines-deleted": 231,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ae2fd1c",
+        "author": "Bob",
+        "timestamp": "2026-03-08T15:40:54.851962",
+        "lines-added": 253,
+        "files-changed": 13,
+        "lines-deleted": 116,
+        "message": "Added ..."
+    },
+    {
+        "sha": "9593be6",
+        "author": "Alice",
+        "timestamp": "2026-03-20T15:40:54.851968",
+        "lines-added": 12,
+        "files-changed": 15,
+        "lines-deleted": 75,
+        "message": "Added ..."
+    },
+    {
+        "sha": "872ebdd",
+        "author": "Xander",
+        "timestamp": "2026-01-28T15:40:54.851975",
+        "lines-added": 202,
+        "files-changed": 9,
+        "lines-deleted": 109,
+        "message": "Added ..."
+    },
+    {
+        "sha": "2bdd8aa",
+        "author": "Alice",
+        "timestamp": "2026-03-31T15:40:54.851982",
+        "lines-added": 477,
+        "files-changed": 12,
+        "lines-deleted": 89,
+        "message": "Added ..."
+    },
+    {
+        "sha": "6605efa",
+        "author": "Danny",
+        "timestamp": "2026-02-09T15:40:54.851989",
+        "lines-added": 380,
+        "files-changed": 9,
+        "lines-deleted": 272,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ea62ec0",
+        "author": "Bob",
+        "timestamp": "2026-02-18T15:40:54.851996",
+        "lines-added": 125,
+        "files-changed": 14,
+        "lines-deleted": 14,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ff9e9fe",
+        "author": "Alex",
+        "timestamp": "2026-03-24T15:40:54.852002",
+        "lines-added": 410,
+        "files-changed": 1,
+        "lines-deleted": 62,
+        "message": "Added ..."
+    },
+    {
+        "sha": "783127d",
+        "author": "Danny",
+        "timestamp": "2026-04-05T15:40:54.852009",
+        "lines-added": 406,
+        "files-changed": 11,
+        "lines-deleted": 76,
+        "message": "Added ..."
+    },
+    {
+        "sha": "bd8e440",
+        "author": "David",
+        "timestamp": "2026-02-24T15:40:54.852016",
+        "lines-added": 1,
+        "files-changed": 8,
+        "lines-deleted": 138,
+        "message": "Added ..."
+    },
+    {
+        "sha": "80db8cb",
+        "author": "Alice",
+        "timestamp": "2026-02-11T15:40:54.852024",
+        "lines-added": 18,
+        "files-changed": 8,
+        "lines-deleted": 203,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fbddfea",
+        "author": "Bob",
+        "timestamp": "2026-03-03T15:40:54.852031",
+        "lines-added": 259,
+        "files-changed": 9,
+        "lines-deleted": 203,
+        "message": "Added ..."
+    },
+    {
+        "sha": "4ebff3c",
+        "author": "Alice",
+        "timestamp": "2026-02-11T15:40:54.852038",
+        "lines-added": 367,
+        "files-changed": 7,
+        "lines-deleted": 86,
+        "message": "Added ..."
+    },
+    {
+        "sha": "face9ee",
+        "author": "Xander",
+        "timestamp": "2026-04-26T15:40:54.852045",
+        "lines-added": 442,
+        "files-changed": 13,
+        "lines-deleted": 173,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c52862c",
+        "author": "Danny",
+        "timestamp": "2026-02-27T15:40:54.852052",
+        "lines-added": 119,
+        "files-changed": 13,
+        "lines-deleted": 31,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fb4bff4",
+        "author": "Xander",
+        "timestamp": "2026-03-21T15:40:54.852059",
+        "lines-added": 91,
+        "files-changed": 3,
+        "lines-deleted": 220,
+        "message": "Added ..."
+    },
+    {
+        "sha": "0434faa",
+        "author": "Xander",
+        "timestamp": "2026-03-19T15:40:54.852066",
+        "lines-added": 23,
+        "files-changed": 14,
+        "lines-deleted": 139,
+        "message": "Added ..."
+    },
+    {
+        "sha": "066e49d",
+        "author": "Danny",
+        "timestamp": "2026-02-24T15:40:54.852072",
+        "lines-added": 154,
+        "files-changed": 11,
+        "lines-deleted": 96,
+        "message": "Added ..."
+    },
+    {
+        "sha": "cabafa7",
+        "author": "Danny",
+        "timestamp": "2026-03-30T15:40:54.852079",
+        "lines-added": 185,
+        "files-changed": 3,
+        "lines-deleted": 101,
+        "message": "Added ..."
+    },
+    {
+        "sha": "9ee8a1d",
+        "author": "Xander",
+        "timestamp": "2026-04-10T15:40:54.852086",
+        "lines-added": 385,
+        "files-changed": 5,
+        "lines-deleted": 221,
+        "message": "Added ..."
+    },
+    {
+        "sha": "4ae6657",
+        "author": "Xander",
+        "timestamp": "2026-02-19T15:40:54.852092",
+        "lines-added": 152,
+        "files-changed": 13,
+        "lines-deleted": 108,
+        "message": "Added ..."
+    },
+    {
+        "sha": "afd796d",
+        "author": "Alex",
+        "timestamp": "2026-04-22T15:40:54.852099",
+        "lines-added": 92,
+        "files-changed": 7,
         "lines-deleted": 155,
         "message": "Added ..."
     },
     {
-        "sha": "05e01a8",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-04T11:42:58.858400",
-        "lines-added": 419,
-        "files-changed": 9,
-        "lines-deleted": 122,
+        "sha": "a42ccf1",
+        "author": "Xander",
+        "timestamp": "2026-04-05T15:40:54.852106",
+        "lines-added": 201,
+        "files-changed": 4,
+        "lines-deleted": 207,
         "message": "Added ..."
     },
     {
-        "sha": "c8cceeb",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-22T11:42:58.858407",
-        "lines-added": 140,
+        "sha": "fa1187d",
+        "author": "Bob",
+        "timestamp": "2026-04-06T15:40:54.852113",
+        "lines-added": 156,
+        "files-changed": 8,
+        "lines-deleted": 84,
+        "message": "Added ..."
+    },
+    {
+        "sha": "f14abda",
+        "author": "Danny",
+        "timestamp": "2026-01-28T15:40:54.852120",
+        "lines-added": 199,
+        "files-changed": 1,
+        "lines-deleted": 231,
+        "message": "Added ..."
+    },
+    {
+        "sha": "9dec2a4",
+        "author": "Xander",
+        "timestamp": "2026-04-17T15:40:54.852126",
+        "lines-added": 220,
+        "files-changed": 1,
+        "lines-deleted": 70,
+        "message": "Added ..."
+    },
+    {
+        "sha": "57f5456",
+        "author": "Alex",
+        "timestamp": "2026-02-11T15:40:54.852133",
+        "lines-added": 158,
+        "files-changed": 10,
+        "lines-deleted": 41,
+        "message": "Added ..."
+    },
+    {
+        "sha": "2fe3ec9",
+        "author": "Alex",
+        "timestamp": "2026-04-11T15:40:54.852142",
+        "lines-added": 114,
+        "files-changed": 5,
+        "lines-deleted": 274,
+        "message": "Added ..."
+    },
+    {
+        "sha": "40a93ef",
+        "author": "Xander",
+        "timestamp": "2026-03-11T15:40:54.852149",
+        "lines-added": 245,
+        "files-changed": 8,
+        "lines-deleted": 230,
+        "message": "Added ..."
+    },
+    {
+        "sha": "79acf74",
+        "author": "David",
+        "timestamp": "2026-03-03T15:40:54.852157",
+        "lines-added": 356,
+        "files-changed": 10,
+        "lines-deleted": 155,
+        "message": "Added ..."
+    },
+    {
+        "sha": "2abab7a",
+        "author": "David",
+        "timestamp": "2026-04-01T15:40:54.852164",
+        "lines-added": 292,
+        "files-changed": 10,
+        "lines-deleted": 49,
+        "message": "Added ..."
+    },
+    {
+        "sha": "eed920d",
+        "author": "Alex",
+        "timestamp": "2026-04-13T15:40:54.852172",
+        "lines-added": 364,
+        "files-changed": 11,
+        "lines-deleted": 56,
+        "message": "Added ..."
+    },
+    {
+        "sha": "7fcd030",
+        "author": "Xander",
+        "timestamp": "2026-04-24T15:40:54.852179",
+        "lines-added": 110,
+        "files-changed": 13,
+        "lines-deleted": 261,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d6e32bc",
+        "author": "Alice",
+        "timestamp": "2026-03-22T15:40:54.852186",
+        "lines-added": 331,
+        "files-changed": 7,
+        "lines-deleted": 260,
+        "message": "Added ..."
+    },
+    {
+        "sha": "b3f70ef",
+        "author": "Xander",
+        "timestamp": "2026-04-11T15:40:54.852192",
+        "lines-added": 222,
+        "files-changed": 7,
+        "lines-deleted": 3,
+        "message": "Added ..."
+    },
+    {
+        "sha": "563ced6",
+        "author": "Alex",
+        "timestamp": "2026-02-16T15:40:54.852199",
+        "lines-added": 289,
+        "files-changed": 3,
+        "lines-deleted": 134,
+        "message": "Added ..."
+    },
+    {
+        "sha": "e41bacb",
+        "author": "Alex",
+        "timestamp": "2026-04-16T15:40:54.852206",
+        "lines-added": 451,
+        "files-changed": 10,
+        "lines-deleted": 14,
+        "message": "Added ..."
+    },
+    {
+        "sha": "020abb4",
+        "author": "Alice",
+        "timestamp": "2026-04-27T15:40:54.852213",
+        "lines-added": 224,
+        "files-changed": 12,
+        "lines-deleted": 271,
+        "message": "Added ..."
+    },
+    {
+        "sha": "03d90bd",
+        "author": "Alice",
+        "timestamp": "2026-02-02T15:40:54.852220",
+        "lines-added": 313,
+        "files-changed": 5,
+        "lines-deleted": 55,
+        "message": "Added ..."
+    },
+    {
+        "sha": "abbdbb0",
+        "author": "Bob",
+        "timestamp": "2026-02-15T15:40:54.852227",
+        "lines-added": 395,
+        "files-changed": 1,
+        "lines-deleted": 132,
+        "message": "Added ..."
+    },
+    {
+        "sha": "aa074f0",
+        "author": "Alice",
+        "timestamp": "2026-04-11T15:40:54.852239",
+        "lines-added": 179,
+        "files-changed": 12,
+        "lines-deleted": 95,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d477abb",
+        "author": "David",
+        "timestamp": "2026-02-15T15:40:54.852247",
+        "lines-added": 464,
+        "files-changed": 12,
+        "lines-deleted": 81,
+        "message": "Added ..."
+    },
+    {
+        "sha": "7f3a7ae",
+        "author": "Alex",
+        "timestamp": "2026-04-06T15:40:54.852254",
+        "lines-added": 457,
+        "files-changed": 3,
+        "lines-deleted": 292,
+        "message": "Added ..."
+    },
+    {
+        "sha": "bce72bc",
+        "author": "Bob",
+        "timestamp": "2026-02-11T15:40:54.852260",
+        "lines-added": 231,
+        "files-changed": 9,
+        "lines-deleted": 152,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a3f9c0b",
+        "author": "Bob",
+        "timestamp": "2026-03-19T15:40:54.852267",
+        "lines-added": 184,
+        "files-changed": 8,
+        "lines-deleted": 68,
+        "message": "Added ..."
+    },
+    {
+        "sha": "cfb61b3",
+        "author": "Bob",
+        "timestamp": "2026-02-12T15:40:54.852274",
+        "lines-added": 80,
+        "files-changed": 5,
+        "lines-deleted": 184,
+        "message": "Added ..."
+    },
+    {
+        "sha": "58ca5f2",
+        "author": "Danny",
+        "timestamp": "2026-04-03T15:40:54.852283",
+        "lines-added": 143,
+        "files-changed": 15,
+        "lines-deleted": 167,
+        "message": "Added ..."
+    },
+    {
+        "sha": "db1e82b",
+        "author": "Alice",
+        "timestamp": "2026-04-16T15:40:54.852290",
+        "lines-added": 60,
+        "files-changed": 14,
+        "lines-deleted": 151,
+        "message": "Added ..."
+    },
+    {
+        "sha": "3bc5be6",
+        "author": "David",
+        "timestamp": "2026-04-26T15:40:54.852297",
+        "lines-added": 97,
+        "files-changed": 12,
+        "lines-deleted": 191,
+        "message": "Added ..."
+    },
+    {
+        "sha": "3f085ba",
+        "author": "Xander",
+        "timestamp": "2026-04-18T15:40:54.852305",
+        "lines-added": 272,
+        "files-changed": 6,
+        "lines-deleted": 292,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fb8e76f",
+        "author": "Xander",
+        "timestamp": "2026-02-15T15:40:54.852312",
+        "lines-added": 7,
+        "files-changed": 6,
+        "lines-deleted": 0,
+        "message": "Added ..."
+    },
+    {
+        "sha": "58bf3f7",
+        "author": "Danny",
+        "timestamp": "2026-04-09T15:40:54.852319",
+        "lines-added": 251,
+        "files-changed": 9,
+        "lines-deleted": 108,
+        "message": "Added ..."
+    },
+    {
+        "sha": "0efae3f",
+        "author": "Alex",
+        "timestamp": "2026-04-03T15:40:54.852325",
+        "lines-added": 227,
+        "files-changed": 15,
+        "lines-deleted": 77,
+        "message": "Added ..."
+    },
+    {
+        "sha": "97a4def",
+        "author": "Bob",
+        "timestamp": "2026-03-30T15:40:54.852332",
+        "lines-added": 27,
+        "files-changed": 11,
+        "lines-deleted": 144,
+        "message": "Added ..."
+    },
+    {
+        "sha": "53bd3d4",
+        "author": "Bob",
+        "timestamp": "2026-02-19T15:40:54.852338",
+        "lines-added": 462,
+        "files-changed": 9,
+        "lines-deleted": 231,
+        "message": "Added ..."
+    },
+    {
+        "sha": "8dd0998",
+        "author": "Xander",
+        "timestamp": "2026-03-20T15:40:54.852345",
+        "lines-added": 278,
+        "files-changed": 14,
+        "lines-deleted": 137,
+        "message": "Added ..."
+    },
+    {
+        "sha": "6cedddd",
+        "author": "David",
+        "timestamp": "2026-02-21T15:40:54.852352",
+        "lines-added": 378,
+        "files-changed": 6,
+        "lines-deleted": 79,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ab493ce",
+        "author": "Alice",
+        "timestamp": "2026-03-10T15:40:54.852358",
+        "lines-added": 280,
+        "files-changed": 3,
+        "lines-deleted": 35,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c5da1c3",
+        "author": "Bob",
+        "timestamp": "2026-02-05T15:40:54.852365",
+        "lines-added": 415,
+        "files-changed": 10,
+        "lines-deleted": 80,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c8b59ce",
+        "author": "Bob",
+        "timestamp": "2026-02-08T15:40:54.852372",
+        "lines-added": 155,
+        "files-changed": 2,
+        "lines-deleted": 13,
+        "message": "Added ..."
+    },
+    {
+        "sha": "07a5e06",
+        "author": "Alex",
+        "timestamp": "2026-02-27T15:40:54.852378",
+        "lines-added": 297,
+        "files-changed": 14,
+        "lines-deleted": 182,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a27e327",
+        "author": "Bob",
+        "timestamp": "2026-04-12T15:40:54.852386",
+        "lines-added": 170,
+        "files-changed": 2,
+        "lines-deleted": 60,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fc7ca6f",
+        "author": "Bob",
+        "timestamp": "2026-04-18T15:40:54.852392",
+        "lines-added": 493,
+        "files-changed": 1,
+        "lines-deleted": 216,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a7ee1cf",
+        "author": "Alex",
+        "timestamp": "2026-03-13T15:40:54.852399",
+        "lines-added": 194,
+        "files-changed": 11,
+        "lines-deleted": 250,
+        "message": "Added ..."
+    },
+    {
+        "sha": "e27e822",
+        "author": "Alice",
+        "timestamp": "2026-02-08T15:40:54.852406",
+        "lines-added": 155,
+        "files-changed": 3,
+        "lines-deleted": 162,
+        "message": "Added ..."
+    },
+    {
+        "sha": "de9586b",
+        "author": "Alice",
+        "timestamp": "2026-04-01T15:40:54.852413",
+        "lines-added": 30,
+        "files-changed": 9,
+        "lines-deleted": 186,
+        "message": "Added ..."
+    },
+    {
+        "sha": "1db8dda",
+        "author": "Bob",
+        "timestamp": "2026-04-22T15:40:54.852419",
+        "lines-added": 232,
+        "files-changed": 2,
+        "lines-deleted": 90,
+        "message": "Added ..."
+    },
+    {
+        "sha": "dcffdd1",
+        "author": "Alex",
+        "timestamp": "2026-03-11T15:40:54.852426",
+        "lines-added": 107,
+        "files-changed": 3,
+        "lines-deleted": 85,
+        "message": "Added ..."
+    },
+    {
+        "sha": "cebd639",
+        "author": "Alex",
+        "timestamp": "2026-03-09T15:40:54.852434",
+        "lines-added": 381,
+        "files-changed": 14,
+        "lines-deleted": 157,
+        "message": "Added ..."
+    },
+    {
+        "sha": "3ce554f",
+        "author": "Alex",
+        "timestamp": "2026-03-12T15:40:54.852441",
+        "lines-added": 193,
+        "files-changed": 15,
+        "lines-deleted": 104,
+        "message": "Added ..."
+    },
+    {
+        "sha": "da6bec8",
+        "author": "Xander",
+        "timestamp": "2026-02-19T15:40:54.852448",
+        "lines-added": 241,
+        "files-changed": 1,
+        "lines-deleted": 215,
+        "message": "Added ..."
+    },
+    {
+        "sha": "f79dd11",
+        "author": "Alice",
+        "timestamp": "2026-01-28T15:40:54.852455",
+        "lines-added": 212,
+        "files-changed": 11,
+        "lines-deleted": 247,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c8e4d4f",
+        "author": "Bob",
+        "timestamp": "2026-02-16T15:40:54.852461",
+        "lines-added": 43,
+        "files-changed": 6,
+        "lines-deleted": 284,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fdda9dd",
+        "author": "Alex",
+        "timestamp": "2026-02-19T15:40:54.852468",
+        "lines-added": 391,
+        "files-changed": 5,
+        "lines-deleted": 233,
+        "message": "Added ..."
+    },
+    {
+        "sha": "8e4aadc",
+        "author": "Danny",
+        "timestamp": "2026-03-23T15:40:54.852475",
+        "lines-added": 295,
+        "files-changed": 12,
+        "lines-deleted": 294,
+        "message": "Added ..."
+    },
+    {
+        "sha": "6dcbbea",
+        "author": "David",
+        "timestamp": "2026-04-13T15:40:54.852482",
+        "lines-added": 208,
+        "files-changed": 2,
+        "lines-deleted": 134,
+        "message": "Added ..."
+    },
+    {
+        "sha": "5cfdc3c",
+        "author": "Alice",
+        "timestamp": "2026-02-23T15:40:54.852489",
+        "lines-added": 131,
+        "files-changed": 5,
+        "lines-deleted": 11,
+        "message": "Added ..."
+    },
+    {
+        "sha": "cfae9fd",
+        "author": "Alex",
+        "timestamp": "2026-01-29T15:40:54.852496",
+        "lines-added": 100,
+        "files-changed": 4,
+        "lines-deleted": 103,
+        "message": "Added ..."
+    },
+    {
+        "sha": "baf76b5",
+        "author": "Bob",
+        "timestamp": "2026-02-05T15:40:54.852502",
+        "lines-added": 28,
+        "files-changed": 2,
+        "lines-deleted": 183,
+        "message": "Added ..."
+    },
+    {
+        "sha": "dc0dc1f",
+        "author": "Alice",
+        "timestamp": "2026-04-12T15:40:54.852509",
+        "lines-added": 234,
+        "files-changed": 7,
+        "lines-deleted": 295,
+        "message": "Added ..."
+    },
+    {
+        "sha": "26baee2",
+        "author": "Alex",
+        "timestamp": "2026-03-28T15:40:54.852516",
+        "lines-added": 477,
+        "files-changed": 15,
+        "lines-deleted": 191,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d99b1cf",
+        "author": "Alex",
+        "timestamp": "2026-03-24T15:40:54.852523",
+        "lines-added": 70,
+        "files-changed": 7,
+        "lines-deleted": 16,
+        "message": "Added ..."
+    },
+    {
+        "sha": "dfebcad",
+        "author": "Danny",
+        "timestamp": "2026-02-17T15:40:54.852530",
+        "lines-added": 477,
+        "files-changed": 13,
+        "lines-deleted": 184,
+        "message": "Added ..."
+    },
+    {
+        "sha": "f9ecd5c",
+        "author": "Alice",
+        "timestamp": "2026-04-16T15:40:54.852537",
+        "lines-added": 491,
+        "files-changed": 9,
+        "lines-deleted": 295,
+        "message": "Added ..."
+    },
+    {
+        "sha": "b2cac7c",
+        "author": "Danny",
+        "timestamp": "2026-02-28T15:40:54.852544",
+        "lines-added": 415,
+        "files-changed": 2,
+        "lines-deleted": 17,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d0ebb17",
+        "author": "Alex",
+        "timestamp": "2026-03-02T15:40:54.852550",
+        "lines-added": 414,
+        "files-changed": 15,
+        "lines-deleted": 146,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a86baef",
+        "author": "Danny",
+        "timestamp": "2026-04-17T15:40:54.852557",
+        "lines-added": 9,
+        "files-changed": 3,
+        "lines-deleted": 8,
+        "message": "Added ..."
+    },
+    {
+        "sha": "34bd9b0",
+        "author": "Bob",
+        "timestamp": "2026-02-19T15:40:54.852564",
+        "lines-added": 380,
+        "files-changed": 10,
+        "lines-deleted": 196,
+        "message": "Added ..."
+    },
+    {
+        "sha": "3cf4358",
+        "author": "Alex",
+        "timestamp": "2026-04-04T15:40:54.852573",
+        "lines-added": 22,
+        "files-changed": 7,
+        "lines-deleted": 63,
+        "message": "Added ..."
+    },
+    {
+        "sha": "0bae8aa",
+        "author": "Alex",
+        "timestamp": "2026-03-12T15:40:54.852580",
+        "lines-added": 185,
+        "files-changed": 3,
+        "lines-deleted": 140,
+        "message": "Added ..."
+    },
+    {
+        "sha": "7ce5021",
+        "author": "Danny",
+        "timestamp": "2026-02-13T15:40:54.852587",
+        "lines-added": 461,
+        "files-changed": 9,
+        "lines-deleted": 106,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d5adb48",
+        "author": "Danny",
+        "timestamp": "2026-03-28T15:40:54.852597",
+        "lines-added": 431,
+        "files-changed": 7,
+        "lines-deleted": 294,
+        "message": "Added ..."
+    },
+    {
+        "sha": "1ad3455",
+        "author": "Alex",
+        "timestamp": "2026-03-05T15:40:54.852604",
+        "lines-added": 420,
+        "files-changed": 6,
+        "lines-deleted": 160,
+        "message": "Added ..."
+    },
+    {
+        "sha": "af5a036",
+        "author": "Bob",
+        "timestamp": "2026-02-10T15:40:54.852611",
+        "lines-added": 184,
+        "files-changed": 12,
+        "lines-deleted": 236,
+        "message": "Added ..."
+    },
+    {
+        "sha": "bba0f12",
+        "author": "Xander",
+        "timestamp": "2026-04-03T15:40:54.852618",
+        "lines-added": 2,
+        "files-changed": 7,
+        "lines-deleted": 49,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ec5b7fb",
+        "author": "Xander",
+        "timestamp": "2026-03-15T15:40:54.852625",
+        "lines-added": 89,
+        "files-changed": 1,
+        "lines-deleted": 238,
+        "message": "Added ..."
+    },
+    {
+        "sha": "04fd577",
+        "author": "David",
+        "timestamp": "2026-04-03T15:40:54.852632",
+        "lines-added": 207,
+        "files-changed": 11,
+        "lines-deleted": 90,
+        "message": "Added ..."
+    },
+    {
+        "sha": "601c6cf",
+        "author": "Alex",
+        "timestamp": "2026-04-21T15:40:54.852639",
+        "lines-added": 127,
+        "files-changed": 2,
+        "lines-deleted": 177,
+        "message": "Added ..."
+    },
+    {
+        "sha": "f04b52e",
+        "author": "Danny",
+        "timestamp": "2026-04-10T15:40:54.852645",
+        "lines-added": 324,
+        "files-changed": 4,
+        "lines-deleted": 101,
+        "message": "Added ..."
+    },
+    {
+        "sha": "b2535a6",
+        "author": "Alex",
+        "timestamp": "2026-02-12T15:40:54.852652",
+        "lines-added": 182,
         "files-changed": 14,
         "lines-deleted": 19,
         "message": "Added ..."
     },
     {
-        "sha": "477dca8",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-23T11:42:58.858413",
-        "lines-added": 379,
+        "sha": "7a03b84",
+        "author": "Alice",
+        "timestamp": "2026-01-28T15:40:54.852659",
+        "lines-added": 191,
         "files-changed": 10,
-        "lines-deleted": 126,
+        "lines-deleted": 238,
         "message": "Added ..."
     },
     {
-        "sha": "bd516ae",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-03T11:42:58.858419",
-        "lines-added": 282,
-        "files-changed": 9,
-        "lines-deleted": 126,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eee689b",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-02-14T11:42:58.858425",
-        "lines-added": 63,
-        "files-changed": 14,
-        "lines-deleted": 140,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cbe696b",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-26T11:42:58.858432",
-        "lines-added": 431,
-        "files-changed": 4,
-        "lines-deleted": 94,
-        "message": "Added ..."
-    },
-    {
-        "sha": "59adab2",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-26T11:42:58.858438",
-        "lines-added": 154,
-        "files-changed": 7,
-        "lines-deleted": 181,
-        "message": "Added ..."
-    },
-    {
-        "sha": "599fcd7",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-15T11:42:58.858444",
-        "lines-added": 54,
-        "files-changed": 12,
-        "lines-deleted": 90,
-        "message": "Added ..."
-    },
-    {
-        "sha": "485ee2e",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-23T11:42:58.858450",
-        "lines-added": 446,
-        "files-changed": 14,
-        "lines-deleted": 4,
-        "message": "Added ..."
-    },
-    {
-        "sha": "bab1e2b",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-21T11:42:58.858456",
-        "lines-added": 224,
-        "files-changed": 9,
-        "lines-deleted": 4,
-        "message": "Added ..."
-    },
-    {
-        "sha": "c1a9f90",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-14T11:42:58.858462",
-        "lines-added": 125,
-        "files-changed": 15,
-        "lines-deleted": 291,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eb0fa06",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-14T11:42:58.858469",
-        "lines-added": 201,
-        "files-changed": 7,
-        "lines-deleted": 167,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3df4e4c",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-02-18T11:42:58.858475",
-        "lines-added": 417,
+        "sha": "5c6dd0c",
+        "author": "Danny",
+        "timestamp": "2026-03-12T15:40:54.852666",
+        "lines-added": 71,
         "files-changed": 12,
         "lines-deleted": 234,
         "message": "Added ..."
     },
     {
-        "sha": "79ddc4d",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-02T11:42:58.858483",
-        "lines-added": 355,
-        "files-changed": 3,
-        "lines-deleted": 186,
+        "sha": "baa8fdc",
+        "author": "Bob",
+        "timestamp": "2026-03-11T15:40:54.852673",
+        "lines-added": 34,
+        "files-changed": 4,
+        "lines-deleted": 20,
         "message": "Added ..."
     },
     {
-        "sha": "5dbf3c2",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-04T11:42:58.858489",
-        "lines-added": 140,
+        "sha": "ba7eef3",
+        "author": "Danny",
+        "timestamp": "2026-02-08T15:40:54.852680",
+        "lines-added": 30,
+        "files-changed": 2,
+        "lines-deleted": 94,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fdb6cf0",
+        "author": "Bob",
+        "timestamp": "2026-04-21T15:40:54.852687",
+        "lines-added": 189,
         "files-changed": 11,
+        "lines-deleted": 130,
+        "message": "Added ..."
+    },
+    {
+        "sha": "77cfd6f",
+        "author": "Bob",
+        "timestamp": "2026-02-11T15:40:54.852693",
+        "lines-added": 391,
+        "files-changed": 3,
+        "lines-deleted": 104,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ff230f3",
+        "author": "Danny",
+        "timestamp": "2026-03-02T15:40:54.852700",
+        "lines-added": 424,
+        "files-changed": 5,
+        "lines-deleted": 271,
+        "message": "Added ..."
+    },
+    {
+        "sha": "42cce56",
+        "author": "Xander",
+        "timestamp": "2026-02-17T15:40:54.852709",
+        "lines-added": 98,
+        "files-changed": 2,
+        "lines-deleted": 162,
+        "message": "Added ..."
+    },
+    {
+        "sha": "6ddd4fc",
+        "author": "Alex",
+        "timestamp": "2026-04-12T15:40:54.852716",
+        "lines-added": 315,
+        "files-changed": 9,
         "lines-deleted": 120,
         "message": "Added ..."
     },
     {
-        "sha": "acc7e1f",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-04-15T11:42:58.858496",
-        "lines-added": 158,
-        "files-changed": 8,
-        "lines-deleted": 273,
+        "sha": "3be12e7",
+        "author": "Xander",
+        "timestamp": "2026-04-18T15:40:54.852723",
+        "lines-added": 98,
+        "files-changed": 14,
+        "lines-deleted": 261,
         "message": "Added ..."
     },
     {
-        "sha": "ee1eeba",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-16T11:42:58.858504",
-        "lines-added": 359,
+        "sha": "63e4afb",
+        "author": "Alice",
+        "timestamp": "2026-04-04T15:40:54.852730",
+        "lines-added": 2,
+        "files-changed": 6,
+        "lines-deleted": 79,
+        "message": "Added ..."
+    },
+    {
+        "sha": "0a681fc",
+        "author": "Alex",
+        "timestamp": "2026-02-09T15:40:54.852736",
+        "lines-added": 210,
+        "files-changed": 15,
+        "lines-deleted": 0,
+        "message": "Added ..."
+    },
+    {
+        "sha": "2379463",
+        "author": "Alice",
+        "timestamp": "2026-03-13T15:40:54.852743",
+        "lines-added": 311,
+        "files-changed": 5,
+        "lines-deleted": 21,
+        "message": "Added ..."
+    },
+    {
+        "sha": "b41faec",
+        "author": "Alice",
+        "timestamp": "2026-04-24T15:40:54.852750",
+        "lines-added": 21,
+        "files-changed": 14,
+        "lines-deleted": 180,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d5e7d8f",
+        "author": "Alice",
+        "timestamp": "2026-03-21T15:40:54.852756",
+        "lines-added": 317,
+        "files-changed": 15,
+        "lines-deleted": 210,
+        "message": "Added ..."
+    },
+    {
+        "sha": "963c5ec",
+        "author": "Bob",
+        "timestamp": "2026-03-07T15:40:54.852763",
+        "lines-added": 461,
+        "files-changed": 11,
+        "lines-deleted": 156,
+        "message": "Added ..."
+    },
+    {
+        "sha": "f11ecb3",
+        "author": "David",
+        "timestamp": "2026-03-23T15:40:54.852770",
+        "lines-added": 260,
+        "files-changed": 14,
+        "lines-deleted": 12,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ecbdccc",
+        "author": "Danny",
+        "timestamp": "2026-04-04T15:40:54.852777",
+        "lines-added": 241,
+        "files-changed": 6,
+        "lines-deleted": 222,
+        "message": "Added ..."
+    },
+    {
+        "sha": "933c290",
+        "author": "Alice",
+        "timestamp": "2026-01-29T15:40:54.852784",
+        "lines-added": 457,
         "files-changed": 3,
-        "lines-deleted": 212,
+        "lines-deleted": 99,
         "message": "Added ..."
     },
     {
-        "sha": "aade276",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-04-06T11:42:58.858511",
-        "lines-added": 444,
+        "sha": "c8a8e53",
+        "author": "Alex",
+        "timestamp": "2026-04-18T15:40:54.852791",
+        "lines-added": 247,
+        "files-changed": 7,
+        "lines-deleted": 228,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d0dfc23",
+        "author": "Xander",
+        "timestamp": "2026-02-21T15:40:54.852801",
+        "lines-added": 141,
+        "files-changed": 11,
+        "lines-deleted": 111,
+        "message": "Added ..."
+    },
+    {
+        "sha": "688be03",
+        "author": "David",
+        "timestamp": "2026-02-02T15:40:54.852808",
+        "lines-added": 176,
+        "files-changed": 13,
+        "lines-deleted": 234,
+        "message": "Added ..."
+    },
+    {
+        "sha": "bbbffef",
+        "author": "Danny",
+        "timestamp": "2026-03-08T15:40:54.852816",
+        "lines-added": 27,
+        "files-changed": 14,
+        "lines-deleted": 196,
+        "message": "Added ..."
+    },
+    {
+        "sha": "31f514d",
+        "author": "Xander",
+        "timestamp": "2026-02-18T15:40:54.852823",
+        "lines-added": 276,
+        "files-changed": 7,
+        "lines-deleted": 84,
+        "message": "Added ..."
+    },
+    {
+        "sha": "efd1fc5",
+        "author": "Alex",
+        "timestamp": "2026-03-31T15:40:54.852830",
+        "lines-added": 447,
+        "files-changed": 12,
+        "lines-deleted": 96,
+        "message": "Added ..."
+    },
+    {
+        "sha": "6d21b17",
+        "author": "Alex",
+        "timestamp": "2026-04-26T15:40:54.852836",
+        "lines-added": 209,
+        "files-changed": 4,
+        "lines-deleted": 209,
+        "message": "Added ..."
+    },
+    {
+        "sha": "efefd29",
+        "author": "Danny",
+        "timestamp": "2026-04-18T15:40:54.852843",
+        "lines-added": 64,
+        "files-changed": 9,
+        "lines-deleted": 105,
+        "message": "Added ..."
+    },
+    {
+        "sha": "d95de4d",
+        "author": "Alice",
+        "timestamp": "2026-02-13T15:40:54.852852",
+        "lines-added": 224,
+        "files-changed": 11,
+        "lines-deleted": 221,
+        "message": "Added ..."
+    },
+    {
+        "sha": "ca8c5b9",
+        "author": "David",
+        "timestamp": "2026-04-20T15:40:54.852859",
+        "lines-added": 361,
+        "files-changed": 10,
+        "lines-deleted": 105,
+        "message": "Added ..."
+    },
+    {
+        "sha": "1fa0eb4",
+        "author": "Alice",
+        "timestamp": "2026-04-26T15:40:54.852866",
+        "lines-added": 339,
+        "files-changed": 7,
+        "lines-deleted": 285,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fd4fe14",
+        "author": "Danny",
+        "timestamp": "2026-04-19T15:40:54.852873",
+        "lines-added": 54,
+        "files-changed": 9,
+        "lines-deleted": 7,
+        "message": "Added ..."
+    },
+    {
+        "sha": "56cba3c",
+        "author": "Bob",
+        "timestamp": "2026-02-23T15:40:54.852880",
+        "lines-added": 194,
+        "files-changed": 4,
+        "lines-deleted": 237,
+        "message": "Added ..."
+    },
+    {
+        "sha": "afada56",
+        "author": "Alex",
+        "timestamp": "2026-04-16T15:40:54.852889",
+        "lines-added": 183,
+        "files-changed": 4,
+        "lines-deleted": 68,
+        "message": "Added ..."
+    },
+    {
+        "sha": "907dff2",
+        "author": "Xander",
+        "timestamp": "2026-04-13T15:40:54.852897",
+        "lines-added": 86,
+        "files-changed": 15,
+        "lines-deleted": 145,
+        "message": "Added ..."
+    },
+    {
+        "sha": "974eafe",
+        "author": "Bob",
+        "timestamp": "2026-02-05T15:40:54.852904",
+        "lines-added": 173,
+        "files-changed": 8,
+        "lines-deleted": 161,
+        "message": "Added ..."
+    },
+    {
+        "sha": "feacdcd",
+        "author": "Alice",
+        "timestamp": "2026-04-06T15:40:54.852910",
+        "lines-added": 256,
+        "files-changed": 3,
+        "lines-deleted": 283,
+        "message": "Added ..."
+    },
+    {
+        "sha": "0a3dc23",
+        "author": "Xander",
+        "timestamp": "2026-02-06T15:40:54.852917",
+        "lines-added": 27,
+        "files-changed": 7,
+        "lines-deleted": 160,
+        "message": "Added ..."
+    },
+    {
+        "sha": "2ba50fa",
+        "author": "Alex",
+        "timestamp": "2026-04-05T15:40:54.852924",
+        "lines-added": 295,
+        "files-changed": 9,
+        "lines-deleted": 204,
+        "message": "Added ..."
+    },
+    {
+        "sha": "5e8e0ca",
+        "author": "Danny",
+        "timestamp": "2026-02-24T15:40:54.852931",
+        "lines-added": 452,
+        "files-changed": 2,
+        "lines-deleted": 69,
+        "message": "Added ..."
+    },
+    {
+        "sha": "efe2b75",
+        "author": "Alice",
+        "timestamp": "2026-03-09T15:40:54.852938",
+        "lines-added": 360,
+        "files-changed": 4,
+        "lines-deleted": 21,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c5193c0",
+        "author": "David",
+        "timestamp": "2026-01-28T15:40:54.852945",
+        "lines-added": 52,
+        "files-changed": 6,
+        "lines-deleted": 201,
+        "message": "Added ..."
+    },
+    {
+        "sha": "dea84f1",
+        "author": "Bob",
+        "timestamp": "2026-04-16T15:40:54.852952",
+        "lines-added": 212,
+        "files-changed": 2,
+        "lines-deleted": 150,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a2f8a8e",
+        "author": "Bob",
+        "timestamp": "2026-02-19T15:40:54.852959",
+        "lines-added": 160,
+        "files-changed": 8,
+        "lines-deleted": 3,
+        "message": "Added ..."
+    },
+    {
+        "sha": "97fb49a",
+        "author": "Alex",
+        "timestamp": "2026-02-04T15:40:54.852968",
+        "lines-added": 24,
         "files-changed": 15,
         "lines-deleted": 35,
         "message": "Added ..."
     },
     {
-        "sha": "bed16bf",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-01-27T11:42:58.858526",
-        "lines-added": 120,
-        "files-changed": 3,
-        "lines-deleted": 137,
+        "sha": "99c7928",
+        "author": "Alex",
+        "timestamp": "2026-04-11T15:40:54.852975",
+        "lines-added": 262,
+        "files-changed": 15,
+        "lines-deleted": 296,
         "message": "Added ..."
     },
     {
-        "sha": "5b47d62",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-02-20T11:42:58.858533",
-        "lines-added": 361,
-        "files-changed": 1,
-        "lines-deleted": 124,
-        "message": "Added ..."
-    },
-    {
-        "sha": "9ea81cc",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-03T11:42:58.858539",
-        "lines-added": 138,
+        "sha": "46a2faf",
+        "author": "Alice",
+        "timestamp": "2026-02-06T15:40:54.852982",
+        "lines-added": 240,
         "files-changed": 4,
-        "lines-deleted": 148,
+        "lines-deleted": 300,
         "message": "Added ..."
     },
     {
-        "sha": "0bb0eb3",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-04-18T11:42:58.858546",
-        "lines-added": 465,
-        "files-changed": 6,
-        "lines-deleted": 86,
-        "message": "Added ..."
-    },
-    {
-        "sha": "cf1c23e",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-25T11:42:58.858552",
-        "lines-added": 180,
+        "sha": "1f5dcf2",
+        "author": "Danny",
+        "timestamp": "2026-02-22T15:40:54.852991",
+        "lines-added": 207,
         "files-changed": 5,
-        "lines-deleted": 285,
+        "lines-deleted": 141,
         "message": "Added ..."
     },
     {
-        "sha": "50c98ae",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-22T11:42:58.858558",
-        "lines-added": 232,
-        "files-changed": 9,
-        "lines-deleted": 35,
+        "sha": "332e65c",
+        "author": "Alice",
+        "timestamp": "2026-04-09T15:40:54.852998",
+        "lines-added": 264,
+        "files-changed": 12,
+        "lines-deleted": 261,
         "message": "Added ..."
     },
     {
-        "sha": "5be3f20",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-03-13T11:42:58.858564",
-        "lines-added": 457,
-        "files-changed": 9,
-        "lines-deleted": 206,
+        "sha": "cdc2ea9",
+        "author": "Xander",
+        "timestamp": "2026-02-24T15:40:54.853005",
+        "lines-added": 65,
+        "files-changed": 5,
+        "lines-deleted": 129,
         "message": "Added ..."
     },
     {
-        "sha": "6b61ada",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-03-28T11:42:58.858570",
-        "lines-added": 418,
-        "files-changed": 2,
-        "lines-deleted": 147,
+        "sha": "2ad0be2",
+        "author": "Bob",
+        "timestamp": "2026-02-15T15:40:54.853012",
+        "lines-added": 354,
+        "files-changed": 8,
+        "lines-deleted": 242,
         "message": "Added ..."
     },
     {
-        "sha": "fab0fcf",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-02T11:42:58.858576",
-        "lines-added": 457,
-        "files-changed": 10,
-        "lines-deleted": 118,
+        "sha": "bfdcada",
+        "author": "Xander",
+        "timestamp": "2026-04-04T15:40:54.853019",
+        "lines-added": 96,
+        "files-changed": 8,
+        "lines-deleted": 4,
         "message": "Added ..."
     },
     {
-        "sha": "a045e22",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-04-03T11:42:58.858583",
-        "lines-added": 402,
-        "files-changed": 3,
-        "lines-deleted": 21,
+        "sha": "08cf2bb",
+        "author": "Alex",
+        "timestamp": "2026-04-23T15:40:54.853026",
+        "lines-added": 241,
+        "files-changed": 12,
+        "lines-deleted": 74,
         "message": "Added ..."
     },
     {
-        "sha": "7fbae17",
-        "author": [
-            "Alex"
-        ],
-        "timestamp": "2026-03-20T11:42:58.858589",
-        "lines-added": 417,
+        "sha": "325fbcd",
+        "author": "Danny",
+        "timestamp": "2026-04-06T15:40:54.853033",
+        "lines-added": 490,
         "files-changed": 14,
-        "lines-deleted": 21,
+        "lines-deleted": 223,
         "message": "Added ..."
     },
     {
-        "sha": "81eb6a0",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-03-03T11:42:58.858595",
-        "lines-added": 190,
-        "files-changed": 12,
-        "lines-deleted": 147,
-        "message": "Added ..."
-    },
-    {
-        "sha": "eb0ae50",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-03-13T11:42:58.858601",
-        "lines-added": 58,
+        "sha": "aabdbbb",
+        "author": "Alice",
+        "timestamp": "2026-02-09T15:40:54.853039",
+        "lines-added": 223,
         "files-changed": 7,
-        "lines-deleted": 20,
+        "lines-deleted": 266,
         "message": "Added ..."
     },
     {
-        "sha": "2f92c70",
-        "author": [
-            "Bob"
-        ],
-        "timestamp": "2026-02-18T11:42:58.858607",
-        "lines-added": 426,
-        "files-changed": 5,
-        "lines-deleted": 154,
+        "sha": "b1beab7",
+        "author": "Bob",
+        "timestamp": "2026-01-30T15:40:54.853046",
+        "lines-added": 7,
+        "files-changed": 3,
+        "lines-deleted": 226,
         "message": "Added ..."
     },
     {
-        "sha": "f7a829e",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-01-28T11:42:58.858613",
-        "lines-added": 94,
-        "files-changed": 12,
-        "lines-deleted": 289,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3e649e6",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-01-29T11:42:58.858626",
-        "lines-added": 125,
+        "sha": "f9d693f",
+        "author": "David",
+        "timestamp": "2026-02-07T15:40:54.853055",
+        "lines-added": 349,
         "files-changed": 7,
-        "lines-deleted": 12,
+        "lines-deleted": 11,
         "message": "Added ..."
     },
     {
-        "sha": "dedb55a",
-        "author": [
-            "Xander "
-        ],
-        "timestamp": "2026-02-04T11:42:58.858633",
-        "lines-added": 184,
+        "sha": "2cf3dad",
+        "author": "Danny",
+        "timestamp": "2026-03-21T15:40:54.853063",
+        "lines-added": 339,
         "files-changed": 1,
+        "lines-deleted": 254,
+        "message": "Added ..."
+    },
+    {
+        "sha": "76ab2e6",
+        "author": "Bob",
+        "timestamp": "2026-02-06T15:40:54.853071",
+        "lines-added": 49,
+        "files-changed": 3,
+        "lines-deleted": 135,
+        "message": "Added ..."
+    },
+    {
+        "sha": "baad595",
+        "author": "Xander",
+        "timestamp": "2026-03-22T15:40:54.853091",
+        "lines-added": 235,
+        "files-changed": 6,
+        "lines-deleted": 281,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a2bad06",
+        "author": "Bob",
+        "timestamp": "2026-03-03T15:40:54.853097",
+        "lines-added": 371,
+        "files-changed": 4,
+        "lines-deleted": 253,
+        "message": "Added ..."
+    },
+    {
+        "sha": "7a9e55e",
+        "author": "Alex",
+        "timestamp": "2026-03-01T15:40:54.853103",
+        "lines-added": 216,
+        "files-changed": 9,
+        "lines-deleted": 184,
+        "message": "Added ..."
+    },
+    {
+        "sha": "fa0f39c",
+        "author": "Alex",
+        "timestamp": "2026-04-02T15:40:54.853109",
+        "lines-added": 16,
+        "files-changed": 2,
         "lines-deleted": 10,
         "message": "Added ..."
     },
     {
-        "sha": "cc035c6",
-        "author": [
-            "David"
-        ],
-        "timestamp": "2026-04-02T11:42:58.858639",
-        "lines-added": 347,
-        "files-changed": 11,
-        "lines-deleted": 85,
-        "message": "Added ..."
-    },
-    {
-        "sha": "3947f99",
-        "author": [
-            "Alice"
-        ],
-        "timestamp": "2026-03-06T11:42:58.858645",
-        "lines-added": 287,
+        "sha": "80d03bd",
+        "author": "David",
+        "timestamp": "2026-04-09T15:40:54.853115",
+        "lines-added": 417,
         "files-changed": 13,
-        "lines-deleted": 244,
+        "lines-deleted": 102,
         "message": "Added ..."
     },
     {
-        "sha": "7bfd190",
-        "author": [
-            "Danny"
-        ],
-        "timestamp": "2026-04-06T11:42:58.858652",
-        "lines-added": 416,
-        "files-changed": 1,
-        "lines-deleted": 218,
+        "sha": "bcee93b",
+        "author": "Xander",
+        "timestamp": "2026-02-17T15:40:54.853120",
+        "lines-added": 186,
+        "files-changed": 9,
+        "lines-deleted": 192,
+        "message": "Added ..."
+    },
+    {
+        "sha": "c4a6158",
+        "author": "Alice",
+        "timestamp": "2026-03-28T15:40:54.853126",
+        "lines-added": 332,
+        "files-changed": 8,
+        "lines-deleted": 13,
+        "message": "Added ..."
+    },
+    {
+        "sha": "bced8ec",
+        "author": "David",
+        "timestamp": "2026-03-13T15:40:54.853132",
+        "lines-added": 352,
+        "files-changed": 14,
+        "lines-deleted": 26,
+        "message": "Added ..."
+    },
+    {
+        "sha": "a59160a",
+        "author": "Alex",
+        "timestamp": "2026-03-04T15:40:54.853140",
+        "lines-added": 131,
+        "files-changed": 6,
+        "lines-deleted": 135,
+        "message": "Added ..."
+    },
+    {
+        "sha": "e7aafca",
+        "author": "David",
+        "timestamp": "2026-04-08T15:40:54.853146",
+        "lines-added": 127,
+        "files-changed": 13,
+        "lines-deleted": 97,
+        "message": "Added ..."
+    },
+    {
+        "sha": "3cacbd3",
+        "author": "David",
+        "timestamp": "2026-04-25T15:40:54.853152",
+        "lines-added": 211,
+        "files-changed": 5,
+        "lines-deleted": 140,
+        "message": "Added ..."
+    },
+    {
+        "sha": "06c9531",
+        "author": "Bob",
+        "timestamp": "2026-02-28T15:40:54.853157",
+        "lines-added": 194,
+        "files-changed": 13,
+        "lines-deleted": 262,
         "message": "Added ..."
     }
 ]

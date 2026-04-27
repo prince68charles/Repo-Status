@@ -17,7 +17,7 @@ def plot_comits_by_author(commits: list[dict]) -> None:
     """Function that plots the number of comits performed by each author"""
 
 
-    counts = Counter(commit["author"] for commit in commits)
+    counts = Counter(c["author"] for c in commits)
     sorted_items = sorted(counts.items(), key = lambda x: x[1], reverse=True)
 
     authors = [item[0] for item in sorted_items]
@@ -36,11 +36,12 @@ def plot_comits_by_author(commits: list[dict]) -> None:
     fig.savefig("output/commits_by_author.png", dpi=120)
     plt.close(fig)
 
+
 def commits_over_time(commits: dict[str, int]) -> None:
 
 
     """Function that plots commits over time via a bargraph"""
-    
+
     dates = (datetime.fromisoformat(commit["timestamp"].date() for commit in commits))
     counts = Counter(dates)
 
