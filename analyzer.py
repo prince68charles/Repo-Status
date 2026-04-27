@@ -23,3 +23,18 @@ def load_commits(path: str) -> list[dict]:
 
 
 
+def commits_per_author(commits: list[dict]) -> dict[str,int]:
+
+    
+    total_commits = {}
+
+    for commit in commits:
+
+        if commit["author"] in total_commits:
+
+            total_commits["author"] += 1
+        else:
+
+            total_commits["author"] = 1
+    
+    return total_commits
